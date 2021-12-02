@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@6e2bf4c3, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDepthIncrementTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no increments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- one increment[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a few increments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- given example matches expected increment 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get depth increments from input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sliding window given example matches expected increment 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get sliding window depth increments from input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 601 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1.DepthIncrementTest[0m
