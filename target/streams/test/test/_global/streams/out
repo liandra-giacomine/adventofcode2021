@@ -1,4 +1,5 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@6e2bf4c3, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@4db2be56, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day2.DiveDepthTest, org.scalatest.tools.Framework$$anon$1@4db2be56, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mDepthIncrementTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- no increments[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- one increment[0m[0m
@@ -7,10 +8,24 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- get depth increments from input file[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- sliding window given example matches expected increment 5[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- get sliding window depth increments from input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 601 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDiveDepthTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- down[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- up[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- up and down[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- example calculation should equal 150[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth given input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- depth remains 0 without aim[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- aim exists and expected calculation result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- gets expected dive depth with aim of given example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- calculate depth with aim given input file *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  1880593125 did not equal 1507611 (DiveDepthTest.scala:39)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 583 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 16[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 15, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day1.DepthIncrementTest[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	Day2.DiveDepthTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
