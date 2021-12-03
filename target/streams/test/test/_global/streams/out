@@ -1,13 +1,6 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@4db2be56, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day2.DiveDepthTest, org.scalatest.tools.Framework$$anon$1@4db2be56, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mDepthIncrementTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- no increments[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- one increment[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- a few increments[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- given example matches expected increment 7[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- get depth increments from input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- sliding window given example matches expected increment 5[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- get sliding window depth increments from input file[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day3.PowerConsumptionTest, org.scalatest.tools.Framework$$anon$1@56dc9f58, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day2.DiveDepthTest, org.scalatest.tools.Framework$$anon$1@56dc9f58, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@56dc9f58, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mDiveDepthTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- down[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- up[0m[0m
@@ -17,15 +10,42 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- depth remains 0 without aim[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- aim exists and expected calculation result[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- gets expected dive depth with aim of given example[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- calculate depth with aim given input file *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  1880593125 did not equal 1507611 (DiveDepthTest.scala:39)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 583 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 16[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 15, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth with aim given input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDepthIncrementTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no increments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- one increment[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a few increments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- given example matches expected increment 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get depth increments from input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sliding window given example matches expected increment 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get sliding window depth increments from input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPowerConsumptionTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate first most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate second most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate third most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fourth most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fifth most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate gamma rate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate epsilon rate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- power consumption matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate power consumption in file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- oxygen rating with 1 value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- oxygen rating with various values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- oxygen rating matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cO2 rating with one value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cO2 rating with various values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CO2 rating matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get life supporting rate of example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- get life supporting rate in input file *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  4245351 did not equal 10 (PowerConsumptionTest.scala:73)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 55 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 33[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 32, failed 1, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2.DiveDepthTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day1.DepthIncrementTest[0m
 [0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
-[0m[[0m[31merror[0m] [0m[0m	Day2.DiveDepthTest[0m
+[0m[[0m[31merror[0m] [0m[0m	Day3.PowerConsumptionTest[0m
 [0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
