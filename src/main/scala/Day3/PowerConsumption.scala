@@ -34,9 +34,8 @@ object PowerConsumption extends App {
 
       C02RateHelper(index + 1, commonBits)
     }
-    val veee= C02RateHelper(0, input)
-    println(veee)
-    Integer.parseInt(veee, 2)
+
+    Integer.parseInt(C02RateHelper(0, input), 2)
   }
 
   def calculatePowerConsumption(input: Array[String]): Int = {
