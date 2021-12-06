@@ -1,4 +1,4 @@
-[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/main/scala/Day3/PowerConsumption.scala:10:55: comparing values of types Char and String using `==` will always yield false[0m
-[0m[[0m[33mwarn[0m] [0m[0m      val commonBits = remaining.filter(x => x(index) == bit)[0m
-[0m[[0m[33mwarn[0m] [0m[0m                                                      ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/main/scala/Day4/Bingo.scala:86:48: not found: value row[0m
+[0m[[0m[31merror[0m] [0m[0m      println("ROW BINGO NUMBER: ROW INDEX " + row)[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

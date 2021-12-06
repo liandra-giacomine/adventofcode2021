@@ -1,16 +1,4 @@
-[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/test/scala/Day3/PowerConsumptionTest.scala:9:11: comparing values of types Char and String using `==` will always yield false[0m
-[0m[[0m[33mwarn[0m] [0m[0m    assert(PowerConsumption.mostCommonBit(0, Array("11110","10110","10111","10101","01111","00111","11100","10000","11001","00010","010100")) == "1")[0m
-[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/test/scala/Day3/PowerConsumptionTest.scala:13:11: comparing values of types Char and String using `==` will always yield false[0m
-[0m[[0m[33mwarn[0m] [0m[0m    assert(PowerConsumption.mostCommonBit(1, Array("11110","10110","10111","10101","01111","00111","11100","10000","11001","00010","010100")) == "0")[0m
-[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/test/scala/Day3/PowerConsumptionTest.scala:17:11: comparing values of types Char and String using `==` will always yield false[0m
-[0m[[0m[33mwarn[0m] [0m[0m    assert(PowerConsumption.mostCommonBit(2, Array("11110","10110","10111","10101","01111","00111","11100","10000","11001","00010","010100")) == "1")[0m
-[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/test/scala/Day3/PowerConsumptionTest.scala:21:11: comparing values of types Char and String using `==` will always yield false[0m
-[0m[[0m[33mwarn[0m] [0m[0m    assert(PowerConsumption.mostCommonBit(3, Array("11110","10110","10111","10101","01111","00111","11100","10000","11001","00010","010100")) == "1")[0m
-[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/test/scala/Day3/PowerConsumptionTest.scala:25:11: comparing values of types Char and String using `==` will always yield false[0m
-[0m[[0m[33mwarn[0m] [0m[0m    assert(PowerConsumption.mostCommonBit(4, Array("11110","10110","10111","10101","01111","00111","11100","10000","11001","00010","010100")) == "0")[0m
-[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m5 warnings found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/test/scala/Day4/BingoTest.scala:44:7: boards is already defined as value boards[0m
+[0m[[0m[31merror[0m] [0m[0m  val boards = list.toArray[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

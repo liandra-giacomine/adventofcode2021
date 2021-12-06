@@ -1,1 +1,1 @@
-[0m[[0m[33mwarn[0m] [0m[0mGetting the hostname Administrators-MacBook-Pro.local was slow (5003.168913 ms). This is likely because the computer's hostname is not set. You can set the hostname with the command: scutil --set HostName "$(scutil --get LocalHostName).local".[0m
+[0m[[0m[33mwarn[0m] [0m[0mGetting the hostname Administrators-MacBook-Pro.local was slow (5001.842785 ms). This is likely because the computer's hostname is not set. You can set the hostname with the command: scutil --set HostName "$(scutil --get LocalHostName).local".[0m

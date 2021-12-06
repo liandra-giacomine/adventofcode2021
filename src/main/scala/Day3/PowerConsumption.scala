@@ -29,9 +29,6 @@ object PowerConsumption extends App {
       val bit = leastCommonBit(index, remaining)
       val commonBits = remaining.filter(x => x(index) == bit)
 
-      println(bit)
-      commonBits.foreach(println)
-
       C02RateHelper(index + 1, commonBits)
     }
 
