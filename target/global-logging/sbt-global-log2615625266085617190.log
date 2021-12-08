@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/liandragiacomine/Exercism/scala/AdventOfCode/target/scala-2.13/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/main/scala/Day5/HydrothermalVenture.scala:63:7: enclosing method markDiagonalPoint has result type Unit: return value of type Array[Array[Int]] discarded[0m
+[0m[[0m[33mwarn[0m] [0m[0m      return grid[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/main/scala/Day5/HydrothermalVenture.scala:63:14: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m      return grid[0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 8 Dec 2021, 16:15:04[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

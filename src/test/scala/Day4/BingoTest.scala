@@ -48,7 +48,7 @@ class BingoTest extends AnyFunSuite {
   }
 
   test("last board winner") {
-    assert(Bingo.getLastWinnerScore(chosenNumbers, challengeBoards) == 100)
+    assert(Bingo.getLastWinnerScore(chosenNumbers, challengeBoards) == 10030)
   }
 
 }
