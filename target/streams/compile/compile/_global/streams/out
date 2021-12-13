@@ -1,9 +1,2 @@
 [0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/liandragiacomine/Exercism/scala/AdventOfCode/project/target/.sbt-compilation-infos/adventofcode-compile/.sbt-idea-lock ...[0m
-[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/main/scala/Day5/HydrothermalVenture.scala:63:7: enclosing method markDiagonalPoint has result type Unit: return value of type Array[Array[Int]] discarded[0m
-[0m[[0m[33mwarn[0m] [0m[0m      return grid[0m
-[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m/Users/liandragiacomine/Exercism/scala/AdventOfCode/src/main/scala/Day5/HydrothermalVenture.scala:63:14: a pure expression does nothing in statement position[0m
-[0m[[0m[33mwarn[0m] [0m[0m      return grid[0m
-[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
 [0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/liandragiacomine/Exercism/scala/AdventOfCode/project/target/.sbt-compilation-infos/adventofcode-compile/.sbt-idea-lock.[0m

@@ -1,0 +1,73 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/liandragiacomine/Exercism/scala/AdventOfCode/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDiveDepthTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- down[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- up[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- up and down[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- example calculation should equal 150[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth given input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- depth remains 0 without aim[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- aim exists and expected calculation result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- gets expected dive depth with aim of given example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth with aim given input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDepthIncrementTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no increments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- one increment[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a few increments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- given example matches expected increment 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get depth increments from input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sliding window given example matches expected increment 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get sliding window depth increments from input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mHydrothermalVentureTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- set point in grid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- set all points in grid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBingoTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test bingo by checking marked rows[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test bingo by checking marked columns[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate winner index[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get sum of unmarked numbers from the winning board[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get first winner score from file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- last board winner[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPowerConsumptionTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate first most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate second most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate third most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fourth most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fifth most common bit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate gamma rate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate epsilon rate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- power consumption matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate power consumption in file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- oxygen rating with 1 value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- oxygen rating with various values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- oxygen rating matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cO2 rating with one value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cO2 rating with various values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CO2 rating matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get life supporting rate of example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get life supporting rate in input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLanternfishTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- initial state[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 18[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 80[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- count after 80 days with input file initial state[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31mDay6.LanternfishTest *** ABORTED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.OutOfMemoryError: Java heap space[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.util.Arrays.copyOf(Arrays.java:3584)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.Array$.copyOf(Array.scala:127)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.Array$.copyAs(Array.scala:156)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.ArrayOps$.appendedAll$extension(ArrayOps.scala:1191)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.ArrayOps$.$plus$plus$extension(ArrayOps.scala:1206)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Day6.Lanternfish$.nextDayRecursion$1(Lanternfish.scala:12)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Day6.Lanternfish$.countFish(Lanternfish.scala:16)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Day6.LanternfishTest.$anonfun$new$8(LanternfishTest.scala:42)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Day6.LanternfishTest$$Lambda$6860/0x0000000801f55610.apply(Unknown Source)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
