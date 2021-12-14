@@ -1,31 +1,11 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day4.BingoTest, org.scalatest.tools.Framework$$anon$1@68559b66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day3.PowerConsumptionTest, org.scalatest.tools.Framework$$anon$1@68559b66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day6.LanternfishTest, org.scalatest.tools.Framework$$anon$1@68559b66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day7.WhaleTreacheryTest, org.scalatest.tools.Framework$$anon$1@68559b66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@68559b66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day2.DiveDepthTest, org.scalatest.tools.Framework$$anon$1@68559b66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day5.HydrothermalVentureTest, org.scalatest.tools.Framework$$anon$1@68559b66, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mDiveDepthTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- down[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- up[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- up and down[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- example calculation should equal 150[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth given input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- depth remains 0 without aim[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- aim exists and expected calculation result[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- gets expected dive depth with aim of given example[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth with aim given input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mLanternfishTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- initial state[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- day 1[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- day 2[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- day 3[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- day 18[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- day 80[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- count after 80 days with input file initial state[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- initial state efficient func[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- coount fish 2[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- coount fish 80[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day2.DiveDepthTest, org.scalatest.tools.Framework$$anon$1@20c4527c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@20c4527c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day5.HydrothermalVentureTest, org.scalatest.tools.Framework$$anon$1@20c4527c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day4.BingoTest, org.scalatest.tools.Framework$$anon$1@20c4527c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day3.PowerConsumptionTest, org.scalatest.tools.Framework$$anon$1@20c4527c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day6.LanternfishTest, org.scalatest.tools.Framework$$anon$1@20c4527c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day8.SevenSegmentSearchTest, org.scalatest.tools.Framework$$anon$1@20c4527c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day7.WhaleTreacheryTest, org.scalatest.tools.Framework$$anon$1@20c4527c, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mPowerConsumptionTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- calculate first most common bit[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- calculate second most common bit[0m[0m
@@ -44,6 +24,36 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- CO2 rating matches example[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- get life supporting rate of example[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- get life supporting rate in input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDiveDepthTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- down[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- up[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- up and down[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- example calculation should equal 150[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth given input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- depth remains 0 without aim[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- aim exists and expected calculation result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- gets expected dive depth with aim of given example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth with aim given input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSevenSegmentSearchTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return digit 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return digit 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return digit 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return digit 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sum of unique segment size digits matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sum of unique segment size digits for challenge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- get output of sum from file *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  40956 did not equal 9 (SevenSegmentSearchTest.scala:39)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLanternfishTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- initial state[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 18[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- day 80[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- count after 80 days with input file initial state[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- initial state efficient func[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- coount fish 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- coount fish 80[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mBingoTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- test bingo by checking marked rows[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- test bingo by checking marked columns[0m[0m
@@ -70,20 +80,20 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- calculate cheapest fuel given file input[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- calculate fuel with changingRate[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- lowest fuel cost with changing rate to match example[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- lowest fuel cost from input file with changing rate *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  96708205 did not equal 168 (WhaleTreacheryTest.scala:38)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 365 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 59[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 7, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 58, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lowest fuel cost from input file with changing rate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 327 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 66[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 8, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 65, failed 1, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day4.BingoTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day1.DepthIncrementTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day2.DiveDepthTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day7.WhaleTreacheryTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day5.HydrothermalVentureTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day6.LanternfishTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day3.PowerConsumptionTest[0m
 [0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
-[0m[[0m[31merror[0m] [0m[0m	Day7.WhaleTreacheryTest[0m
+[0m[[0m[31merror[0m] [0m[0m	Day8.SevenSegmentSearchTest[0m
 [0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

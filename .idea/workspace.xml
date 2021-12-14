@@ -5,35 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8269f4c-ec49-443b-bfca-f1ae32978e81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8Example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Day6/Lanternfish.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Day7/WhaleTreachery.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Day8/SevenSegmentSearch.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/Day6/LanternfishTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/Day7/WhaleTreacheryTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/Day8/SevenSegmentSearchTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f12dd1e2d1b1adfc4843$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f12dd1e2d1b1adfc4843.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f12dd1e2d1b1adfc4843.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bg-jobs/sbt_83cc12c2/target/303487a2/aab5ff11/scala-library-2.13.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log2615625266085617190.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log84793915421813709.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day8Example" beforeDir="false" afterPath="$PROJECT_DIR$/Day8Example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Day8/SevenSegmentSearch.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Day8/SevenSegmentSearch.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/Day8/SevenSegmentSearchTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/Day8/SevenSegmentSearchTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log13264755711271433852.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log6492024484405324076.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/adventofcode_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/adventofcode_2.13-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/Day5/HydrothermalVentureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/Day5/HydrothermalVentureTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/Day7/WhaleTreacheryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/Day7/WhaleTreacheryTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-zinc/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/test-zinc/inc_compile_2.13.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/zinc/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/zinc/inc_compile_2.13.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compile/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/_global/_global/compileOutputs/previous" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/_global/_global/definedTestNames/data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
@@ -46,6 +31,8 @@
       <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-Day3.PowerConsumptionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-Day3.PowerConsumptionTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-Day4.BingoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-Day4.BingoTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-Day5.HydrothermalVentureTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-Day5.HydrothermalVentureTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-Day6.LanternfishTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-Day6.LanternfishTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-Day7.WhaleTreacheryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-Day7.WhaleTreacheryTest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
