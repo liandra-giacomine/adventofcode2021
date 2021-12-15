@@ -35,10 +35,6 @@ object SevenSegmentSearch extends App {
     digitLetters.find(_._2 == decoded).head._1
   }
 
-  val input = Source.fromFile("Day8" ).getLines().toArray
-
-  getDecodedDigitSumFromFile(input)
-
   def decodeSignal(inputSignal: Array[String]): Map[Char, Char] = {
     val encodedOne = inputSignal.filter(x => x.length == 2)(0)
     val encodedFour = inputSignal.filter(x => x.length == 4)(0)

@@ -1,6 +1,4 @@
 package Day8
-
-import Day8.SevenSegmentSearch.getDecodedDigitSumFromFile
 import org.scalatest.funsuite.AnyFunSuite
 
 import scala.io.Source
