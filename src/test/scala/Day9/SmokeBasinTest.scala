@@ -42,7 +42,7 @@ class SmokeBasinTest extends AnyFunSuite {
   }
 
   test("multiple of largest three in input file") {
-    assert(SmokeBasin.mulThreeLargestBasins( challengeInput) == 9)
+    assert(SmokeBasin.mulThreeLargestBasins( challengeInput) == 1048128)
   }
 
 }

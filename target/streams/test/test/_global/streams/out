@@ -1,24 +1,13 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day9.SmokeBasinTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day3.PowerConsumptionTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day6.LanternfishTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day4.BingoTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day7.WhaleTreacheryTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day8.SevenSegmentSearchTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day5.HydrothermalVentureTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mHydrothermalVentureTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- set point in grid[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- set all points in grid[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- matches example[0m[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day2.DiveDepthTest, org.scalatest.tools.Framework$$anon$1@330a258c, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mDepthIncrementTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- no increments[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- one increment[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- a few increments[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- given example matches expected increment 7[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- get depth increments from input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- sliding window given example matches expected increment 5[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- get sliding window depth increments from input file[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day8.SevenSegmentSearchTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day1.DepthIncrementTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day5.HydrothermalVentureTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day9.SmokeBasinTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day3.PowerConsumptionTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day10.SyntaxScoringTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day7.WhaleTreacheryTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day2.DiveDepthTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day4.BingoTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day6.LanternfishTest, org.scalatest.tools.Framework$$anon$1@2311c8ae, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mPowerConsumptionTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- calculate first most common bit[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- calculate second most common bit[0m[0m
@@ -37,17 +26,10 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- CO2 rating matches example[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- get life supporting rate of example[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- get life supporting rate in input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mSmokeBasinTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- lowest number to match example[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- lowest number in challenge input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- basin size top-left[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- basin size top-right[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- basin size middle[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- basin size bottom-right[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- multiple of largest three matches example *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  1134 did not equal 9 (SmokeBasinTest.scala:41)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- multiple of largest three in input file *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  1048128 did not equal 9 (SmokeBasinTest.scala:45)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mHydrothermalVentureTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- set point in grid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- set all points in grid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- matches example[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mSevenSegmentSearchTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should return digit 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should return digit 4[0m[0m
@@ -55,6 +37,71 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- should return digit 8[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- sum of unique segment size digits matches example[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- sum of unique segment size digits for challenge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSmokeBasinTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lowest number to match example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lowest number in challenge input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- basin size top-left[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- basin size top-right[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- basin size middle[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- basin size bottom-right[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiple of largest three matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiple of largest three in input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDiveDepthTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- down[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- up[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- up and down[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- example calculation should equal 150[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth given input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- depth remains 0 without aim[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- aim exists and expected calculation result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- gets expected dive depth with aim of given example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth with aim given input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSyntaxScoringTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds illegal character ][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds illegal character )[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds illegal character >[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no illegal character in line[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sum score of illegal chars matches example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sum score of illegal chars in input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- completion string example 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- completion string example 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- get incomplete line score *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.NullPointerException: Cannot invoke "scala.collection.immutable.Map.apply(Object)" because the return value of "Day10.SyntaxScoring$.bracketScore()" is null[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Day10.SyntaxScoring$.incompleteLineScore(SyntaxScoring.scala:38)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Day10.SyntaxScoringTest.$anonfun$new$9(SyntaxScoringTest.scala:53)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.funsuite.AnyFunSuiteLike$$anon$1.apply(AnyFunSuiteLike.scala:226)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.TestSuite.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.TestSuite.withFixture$(TestSuite.scala:195)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- middle score from example file (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDepthIncrementTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no increments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- one increment[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a few increments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- given example matches expected increment 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get depth increments from input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sliding window given example matches expected increment 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get sliding window depth increments from input file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWhaleTreacheryTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fuel given alignment equals 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fuel given alignment equals 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate cheapest fuel given all possible combinations[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate cheapest fuel given file input[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fuel with changingRate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lowest fuel cost with changing rate to match example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lowest fuel cost from input file with changing rate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBingoTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test bingo by checking marked rows[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test bingo by checking marked columns[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calculate winner index[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get sum of unmarked numbers from the winning board[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get first winner score from file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- last board winner[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mLanternfishTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- initial state[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- day 1[0m[0m
@@ -66,37 +113,13 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- initial state efficient func[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- coount fish 2[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- coount fish 80[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mBingoTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- test bingo by checking marked rows[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- test bingo by checking marked columns[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate winner index[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- get sum of unmarked numbers from the winning board[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- get first winner score from file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- last board winner[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mDiveDepthTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- down[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- up[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- up and down[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- example calculation should equal 150[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth given input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- depth remains 0 without aim[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- aim exists and expected calculation result[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- gets expected dive depth with aim of given example[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate depth with aim given input file[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mWhaleTreacheryTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fuel given alignment equals 2[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fuel given alignment equals 3[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate cheapest fuel given all possible combinations[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate cheapest fuel given file input[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- calculate fuel with changingRate[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- lowest fuel cost with changing rate to match example[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- lowest fuel cost from input file with changing rate[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 739 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 73[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 9, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 71, failed 2, canceled 0, ignored 0, pending 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m*** 2 TESTS FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 625 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 82[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 10, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 81, failed 1, canceled 0, ignored 0, pending 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day9.SmokeBasinTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day4.BingoTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day1.DepthIncrementTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day2.DiveDepthTest[0m
@@ -106,5 +129,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	Day8.SevenSegmentSearchTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day3.PowerConsumptionTest[0m
 [0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
-[0m[[0m[31merror[0m] [0m[0m	Day9.SmokeBasinTest[0m
+[0m[[0m[31merror[0m] [0m[0m	Day10.SyntaxScoringTest[0m
 [0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
